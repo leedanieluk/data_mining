@@ -1,3 +1,4 @@
+# I would like to acknolwedge Brandon Rose from http://brandonrose.org/clustering, as the base of the code comes from that source.
 import os
 import html2text
 from nltk.tokenize import word_tokenize
